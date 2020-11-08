@@ -1,0 +1,19 @@
+{
+  "theme_color": "#0277bd",
+  "background_color": "#0277bd",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/index.html",
+  "name": "FootbalKu",
+  "gcm_sender_id": "130552806798",
+  "description": "SUBMISSION 2 ku",
+  "short_name": "FootbalKu",
+  "icons": [
+    {
+      "src": "assets/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
